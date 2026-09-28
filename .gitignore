@@ -2,4 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
-data/raw/*.csv
+data/raw/big_five_scores.csv

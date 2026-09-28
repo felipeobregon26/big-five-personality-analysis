@@ -1,0 +1,237 @@
+country_raw,country_name,capital,latitude_capital,include,exclude_reason,iso3,latitude_centroid
+USA,United States,Washington D.C.,38.9,TRUE,,USA,38.811
+Canada,Canada,Ottawa,45.4,TRUE,,CAN,59.693666666666665
+UK,United Kingdom,London,51.5,TRUE,,GBR,54.08
+Australia,Australia,Canberra,-35.3,TRUE,,AUS,-25.657666666666668
+Netherland,Netherlands,Amsterdam,52.4,TRUE,,NLD,52.275666666666666
+India,India,New Delhi,28.6,TRUE,,IND,21.627
+Philippine,Philippines,Manila,14.6,TRUE,,PHL,12.059
+Singapore,Singapore,Singapore,1.35,TRUE,,SGP,1.3419166666675
+Ireland,Ireland,Dublin,53.3,TRUE,,IRL,53.170111
+Thailand,Thailand,Bangkok,13.75,TRUE,,THA,15.4
+New Zealan,New Zealand,Wellington,-41.3,TRUE,,NZL,-41.817
+Finland,Finland,Helsinki,60.2,TRUE,,FIN,64.25200000000001
+Sweden,Sweden,Stockholm,59.3,TRUE,,SWE,62.0055
+Germany,Germany,Berlin,52.5,TRUE,,DEU,51.20333333333333
+Norway,Norway,Oslo,59.9,TRUE,,NOR,61.576
+South Afri,South Africa,Pretoria,-25.7,TRUE,,ZAF,-29.779
+China,China,Beijing,39.9,TRUE,,CHN,34.21
+Malaysia,Malaysia,Kuala Lumpur,3.1,TRUE,,MYS,3.3505
+France,France,Paris,48.9,TRUE,,FRA,45.73420633333333
+Hong Kong,Hong Kong,Hong Kong,22.3,TRUE,,HKG,22.3365
+Mexico,Mexico,Mexico City,19.4,TRUE,,MEX,25.1574592
+Belgium,Belgium,Brussels,50.8,TRUE,,BEL,50.76490833332499
+Brazil,Brazil,Brasilia,-15.8,TRUE,,BRA,-10.386
+Greece,Greece,Athens,38,TRUE,,GRC,39.333
+Afghanista,Afghanistan,Kabul,34.5,TRUE,,AFG,33.22566666666667
+Denmark,Denmark,Copenhagen,55.7,TRUE,,DNK,56.029
+Romania,Romania,Bucharest,44.4,TRUE,,ROU,45.922
+Albania,Albania,Tirana,41.3,TRUE,,ALB,41.0715
+Israel,Israel,Jerusalem,31.8,TRUE,,ISR,31.263
+Portugal,Portugal,Lisbon,38.7,TRUE,,PRT,39.9045
+Italy,Italy,Rome,41.9,TRUE,,ITA,43.08619326666
+South Kore,South Korea,Seoul,37.6,TRUE,,KOR,36.751999999999995
+Spain,Spain,Madrid,40.4,TRUE,,ESP,40.1135
+Poland,Poland,Warsaw,52.2,TRUE,,POL,52.0625
+Japan,Japan,Tokyo,35.7,TRUE,,JPN,36.2455
+Turkey,Turkey,Ankara,39.9,TRUE,,TUR,39.0305
+Russian Fe,Russian Federation,Moscow,55.75,TRUE,,RUS,60.66266666666667
+Algeria,Algeria,Algiers,36.8,TRUE,,DZA,28.0815
+Croatia,Croatia,Zagreb,45.8,TRUE,,HRV,45.305758416675
+Pakistan,Pakistan,Islamabad,33.7,TRUE,,PAK,29.9835
+Egypt,Egypt,Cairo,30,TRUE,,EGY,26.747
+Indonesia,Indonesia,Jakarta,-6.2,TRUE,,IDN,-1.992
+Taiwan,Taiwan,Taipei,25,TRUE,,TWN,23.8032045
+Argentina,Argentina,Buenos Aires,-34.6,TRUE,,ARG,-34.688500000000005
+Austria,Austria,Vienna,48.2,TRUE,,AUT,47.420741583325
+Puerto Ric,Puerto Rico,San Juan,18.5,TRUE,,PRI,18.2355
+Switzerlan,Switzerland,Bern,46.9,TRUE,,CHE,46.930499999999995
+Columbia,Colombia,Bogota,4.6,TRUE,,COL,3.825
+United Ara,United Arab Emirates,Abu Dhabi,24.5,TRUE,,ARE,23.7745
+Latvia,Latvia,Riga,56.9,TRUE,,LVA,56.929
+Estonia,Estonia,Tallinn,59.4,TRUE,,EST,58.837
+Ukraine,Ukraine,Kyiv,50.4,TRUE,,UKR,49.008
+Yugoslavia,Yugoslavia (former),Belgrade,44.8,TRUE,,SRB,43.9006506
+Slovenia,Slovenia,Ljubljana,46.1,TRUE,,SVN,46.08139993334
+Bulgaria,Bulgaria,Sofia,42.7,TRUE,,BGR,42.77341675
+,,,,FALSE,pais_vacio_missing,,
+Serbia,Serbia,Belgrade,44.8,TRUE,,SRB,43.9006506
+Andorra,Andorra,Andorra la Vella,42.5,TRUE,,AND,42.5298
+Lebanon,Lebanon,Beirut,33.9,TRUE,,LBN,33.854991583325
+Iceland,Iceland,Reykjavik,64.1,TRUE,,ISL,64.882
+Trinidad a,Trinidad and Tobago,Port of Spain,10.7,TRUE,,TTO,10.734
+Jamaica,Jamaica,Kingston,18,TRUE,,JAM,18.189222333333333
+Hungary,Hungary,Budapest,47.5,TRUE,,HUN,47.035
+Vietnam,Vietnam,Hanoi,21,TRUE,,VNM,17.941444555566665
+Venezuela,Venezuela,Caracas,10.5,TRUE,,VEN,7.5625
+Uganda,Uganda,Kampala,0.3,TRUE,,UGA,1.3825
+Lithuania,Lithuania,Vilnius,54.7,TRUE,,LTU,55.58422233333333
+Iran,Iran,Tehran,35.7,TRUE,,IRN,32.2825
+Peru,Peru,Lima,-12,TRUE,,PER,-9.775333333333334
+Malta,Malta,Valletta,35.9,TRUE,,MLT,35.880011111099996
+Czech Repu,Czech Republic,Prague,50.1,TRUE,,CZE,49.81075
+Saudi Arab,Saudi Arabia,Riyadh,24.7,TRUE,,SAU,24.5115
+Angola,Angola,Luanda,-8.8,TRUE,,AGO,-12.398
+Slovakia,Slovakia,Bratislava,48.1,TRUE,,SVK,48.676758416675
+Nigeria,Nigeria,Abuja,9.1,TRUE,,NGA,9.797
+Kenya,Kenya,Nairobi,-1.3,TRUE,,KEN,0.765
+Bahamas,Bahamas,Nassau,25,TRUE,,BHS,24.439
+Anguilla,Anguilla,The Valley,18.2,TRUE,,AIA,18.23009175
+Jordan,Jordan,Amman,31.9,TRUE,,JOR,31.155333333333335
+Chile,Chile,Santiago,-33.4,TRUE,,CHL,-26.806787666666665
+Cyprus,Cyprus,Nicosia,35.2,TRUE,,CYP,35.0215
+Bosnia Her,Bosnia and Herzegovina,Sarajevo,43.9,TRUE,,BIH,44.0845
+Cuba,Cuba,Havana,23.1,TRUE,,CUB,21.88258325
+Dominican,Dominican Republic,Santo Domingo,18.5,TRUE,,DOM,19.0075
+Costa Rica,Costa Rica,San Jose,9.9,TRUE,,CRI,9.9855
+Antarctica,Antarctica,,-90,FALSE,sin_poblacion_permanente,,
+Cape Verde,Cape Verde,Praia,14.9,TRUE,,CPV,15.5355
+Cayman Isl,Cayman Islands,George Town,19.3,TRUE,,CYM,19.407
+Bangladesh,Bangladesh,Dhaka,23.8,TRUE,,BGD,24.109
+Sri Lanka,Sri Lanka,Colombo,6.9,TRUE,,LKA,7.306
+British Vi,British Virgin Islands,Road Town,18.4,TRUE,,VGB,18.4915
+Barbados,Barbados,Bridgetown,13.1,TRUE,,BRB,13.163258416675
+Ecuador,Ecuador,Quito,-0.2,TRUE,,ECU,-1.545
+Zimbabwe,Zimbabwe,Harare,-17.8,TRUE,,ZWE,-19.4258246
+Kuwait,Kuwait,Kuwait City,29.4,TRUE,,KWT,29.41899175
+El Salvado,El Salvador,San Salvador,13.7,TRUE,,SLV,13.78466666665
+Azerbaijan,Azerbaijan,Baku,40.4,TRUE,,AZE,40.465
+Uruguay,Uruguay,Montevideo,-34.9,TRUE,,URY,-32.9
+Guatemala,Guatemala,Guatemala City,14.6,TRUE,,GTM,15.014
+Panama,Panama,Panama City,9,TRUE,,PAN,8.692
+Bahrain,Bahrain,Manama,26.2,TRUE,,BHR,26.01308325
+Armenia,Armenia,Yerevan,40.2,TRUE,,ARM,40.26133333333333
+Nepal,Nepal,Kathmandu,27.7,TRUE,,NPL,28.1265
+Honduras,Honduras,Tegucigalpa,14.1,TRUE,,HND,14.9095
+Guam,Guam,Hagatna,13.5,TRUE,,GUM,13.42583333335
+Antigua,Antigua and Barbuda,St. John's,17.1,TRUE,,ATG,17.064
+Bermuda,Bermuda,Hamilton,32.3,TRUE,,BMU,32.3342221111
+Nicaragua,Nicaragua,Managua,12.1,TRUE,,NIC,12.424433333333331
+Bolivia,Bolivia,La Paz,-16.5,TRUE,,BOL,-16.8575
+Belarus,Belarus,Minsk,53.9,TRUE,,BLR,53.27
+Ghana,Ghana,Accra,5.6,TRUE,,GHA,7.986666666666666
+Arabian Gu,Arabian Gulf region,,,FALSE,region_ambigua_multiples_paises,,
+Haiti,Haiti,Port-au-Prince,18.5,TRUE,,HTI,19.0355
+Mauritius,Mauritius,Port Louis,-20.2,TRUE,,MUS,-20.280408333325
+Georgia,Georgia,Tbilisi,41.7,TRUE,,GEO,42.058660333333336
+Macedonia,North Macedonia,Skopje,42,TRUE,,MKD,41.63428726666
+Ethiopia,Ethiopia,Addis Ababa,9,TRUE,,ETH,8.4065
+Morocco,Morocco,Rabat,34,TRUE,,MAR,32.08475
+Luxembourg,Luxembourg,Luxembourg City,49.6,TRUE,,LUX,49.696996142857145
+Cameroon,Cameroon,Yaounde,3.9,TRUE,,CMR,5.711
+Belize,Belize,Belmopan,17.3,TRUE,,BLZ,17.334
+Iraq,Iraq,Baghdad,33.3,TRUE,,IRQ,33.024
+Syria,Syria,Damascus,33.5,TRUE,,SYR,35.0065
+Aruba,Aruba,Oranjestad,12.5,TRUE,,ABW,12.50425
+Brunei,Brunei,Bandar Seri Begawan,4.9,TRUE,,BRN,4.57026
+Turks and,Turks and Caicos Islands,Cockburn Town,21.5,TRUE,,TCA,21.826
+Guyana,Guyana,Georgetown,6.8,TRUE,,GUY,4.597333333333333
+British In,British Indian Ocean Territory,,-7.3,FALSE,sin_poblacion_civil_base_militar,,
+Uzbekistan,Uzbekistan,Tashkent,41.3,TRUE,,UZB,41.472222333333335
+Namibia,Namibia,Windhoek,-22.6,TRUE,,NAM,-22.0665
+Macau,Macau,Macau,22.2,TRUE,,MAC,22.1888888889
+Central Af,Central African Republic,Bangui,4.4,TRUE,,CAF,6.7855
+Cambodia,Cambodia,Phnom Penh,11.6,TRUE,,KHM,12.857
+Burma(Myan,Myanmar,Yangon,16.8,TRUE,,MMR,21.572666666666667
+Oman,Oman,Muscat,23.6,TRUE,,OMN,21.8715895
+Gibraltar,Gibraltar,Gibraltar,36.1,TRUE,,GIB,36.134491583325
+Fiji,Fiji,Suva,-18.1,TRUE,,FJI,-17.939666666666668
+Kazakhstan,Kazakhstan,Astana,51.2,TRUE,,KAZ,48.832673
+St Lucia,Saint Lucia,Castries,14,TRUE,,LCA,13.89066666665
+Virgin Isl,US Virgin Islands,Charlotte Amalie,18.3,TRUE,,VIR,18.03716666665
+Tanzania,Tanzania,Dodoma,-6.2,TRUE,,TZA,-6.135
+Qatar,Qatar,Doha,25.3,TRUE,,QAT,25.408
+New Caledo,New Caledonia,Noumea,-22.3,TRUE,,NCL,-21.4295
+Bhutan,Bhutan,Thimphu,27.5,TRUE,,BTN,27.4575
+Tunisia,Tunisia,Tunis,36.8,TRUE,,TUN,34.691500000000005
+Sudan,Sudan,Khartoum,15.6,TRUE,,SDN,14.944
+Moldova,Moldova,Chisinau,47,TRUE,,MDA,47.17325
+Maldives,Maldives,Male,4.2,TRUE,,MDV,3.332666666666667
+Tuvalu,Tuvalu,Funafuti,-8.5,TRUE,,TUV,-8.257
+Paraguay,Paraguay,Asuncion,-25.3,TRUE,,PRY,-23.189777666666668
+Grenada,Grenada,St. George's,12.1,TRUE,,GRD,12.117122222233334
+Borneo,Borneo island,,,FALSE,isla_compartida_por_3_paises,,
+Zambia,Zambia,Lusaka,-15.4,TRUE,,ZMB,-14.64911
+Northern M,Northern Mariana Islands,Saipan,15.2,TRUE,,MNP,15.1025
+Ivory Coas,Ivory Coast,Yamoussoukro,6.8,TRUE,,CIV,7.816
+Dominica,Dominica,Roseau,15.3,TRUE,,DMA,15.456249916675
+Botswana,Botswana,Gaborone,-24.7,TRUE,,BWA,-22.091
+Niger,Niger,Niamey,13.5,TRUE,,NER,16.808666666666667
+Togo,Togo,Lome,6.2,TRUE,,TGO,8.366416749999999
+St Vincent,Saint Vincent and the Grenadines,Kingstown,13.2,TRUE,,VCT,13.249
+Somalia,Somalia,Mogadishu,2,TRUE,,SOM,9.35214075
+French Pol,French Polynesia,Papeete,-17.5,TRUE,,PYF,-16.313000000000002
+Faeroe Isl,Faroe Islands,Torshavn,62,TRUE,,FRO,62.025
+Chad,Chad,N'Djamena,12.1,TRUE,,TCD,15.1805
+Vanuatu,Vanuatu,Port Vila,-17.7,TRUE,,VUT,-15.688
+Turkmenist,Turkmenistan,Ashgabat,37.9,TRUE,,TKM,39.624
+Seychelles,Seychelles,Victoria,-4.6,TRUE,,SYC,-4.615166666665
+Greenland,Greenland,Nuuk,64.2,TRUE,,GRL,73.3595
+French Gui,French Guiana,Cayenne,4.9,TRUE,,GUF,3.962
+Burundi,Burundi,Bujumbura,-3.4,TRUE,,BDI,-3.428
+Benin,Benin,Porto-Novo,6.5,TRUE,,BEN,10.0205
+Yemen,Yemen,Sanaa,15.4,TRUE,,YEM,15.435666666666666
+Vatican Ci,Vatican City,Vatican City,41.9,TRUE,,VAT,41.902
+Papua New,Papua New Guinea,Port Moresby,-9.5,TRUE,,PNG,-5.9745
+Micronesia,Micronesia,Palikir,6.9,TRUE,,FSM,6.899833333335
+Martinique,Martinique,Fort-de-France,14.6,TRUE,,MTQ,14.6399
+Liberia,Liberia,Monrovia,6.3,TRUE,,LBR,6.591
+Kyrgystan,Kyrgyzstan,Bishkek,42.9,TRUE,,KGZ,41.321666666666665
+Congo,Republic of Congo,Brazzaville,-4.3,TRUE,,COG,-0.5275
+Burma,Myanmar,Yangon,16.8,TRUE,,MMR,21.572666666666667
+Burkina Fa,Burkina Faso,Ouagadougou,12.4,TRUE,,BFA,12.639
+Sierra Leo,Sierra Leone,Freetown,8.5,TRUE,,SLE,8.530000000000001
+Senegal,Senegal,Dakar,14.7,TRUE,,SEN,14.504333333333332
+Samoa,Samoa,Apia,-13.8,TRUE,,WSM,-13.678444444433334
+Rwanda,Rwanda,Kigali,-1.9,TRUE,,RWA,-1.999
+Republic o,Republic of (ambiguo),,,FALSE,codigo_truncado_ambiguo,,
+Palau,Palau,Ngerulmud,7.5,TRUE,,PLW,7.000333333333334
+Norfolk Is,Norfolk Island,Kingston,-29,TRUE,,NFK,-29.03516666665
+Mongolia,Mongolia,Ulaanbaatar,47.9,TRUE,,MNG,45.68533333333333
+Lao P.Dem.,Laos,Vientiane,17.97,TRUE,,LAO,18.9525
+Gambia,Gambia,Banjul,13.5,TRUE,,GMB,13.45983333335
+Djibouti,Djibouti,Djibouti,11.6,TRUE,,DJI,11.6566666
+Cook Islan,Cook Islands,Avarua,-21.2,TRUE,,COK,-21.22616666665
+Tonga,Tonga,Nuku'alofa,-21.1,TRUE,,TON,-20.601
+Swaziland,Eswatini,Mbabane,-26.3,TRUE,,SWZ,-26.531
+Suriname,Suriname,Paramaribo,5.9,TRUE,,SUR,4.0634999999999994
+Solomon Is,Solomon Islands,Honiara,-9.4,TRUE,,SLB,-8.8055
+North Kore,North Korea,Pyongyang,39,TRUE,,PRK,39.889
+Niue,Niue,Alofi,-19.1,TRUE,,NIU,-19.037991583325
+Monaco,Monaco,Monaco,43.7,TRUE,,MCO,43.738703666666666
+Madagascar,Madagascar,Antananarivo,-18.9,TRUE,,MDG,-19.687
+Lesotho,Lesotho,Maseru,-29.3,TRUE,,LSO,-29.527
+Gabon,Gabon,Libreville,0.4,TRUE,,GAB,-0.7955
+Falkland I,Falkland Islands,Stanley,-51.7,TRUE,,FLK,-51.7075
+Eritrea,Eritrea,Asmara,15.3,TRUE,,ERI,15.5225
+Comoros,Comoros,Moroni,-11.7,TRUE,,COM,-11.9748888889
+Cocos (Kee,Cocos (Keeling) Islands,West Island,-12.2,TRUE,,CCK,-12.3365
+Wake Islan,Wake Island,,19.3,FALSE,territorio_deshabitado_uso_militar,,
+Saint Kitt,Saint Kitts and Nevis,Basseterre,17.3,TRUE,,KNA,17.33666666665
+Reunion,Reunion,Saint-Denis,-20.9,TRUE,,REU,-21.111
+Pitcairn I,Pitcairn Islands,Adamstown,-25.1,TRUE,,PCN,-24.71633333335
+Mozambique,Mozambique,Maputo,-25.9,TRUE,,MOZ,-16.336
+Marshall I,Marshall Islands,Majuro,7.1,TRUE,,MHL,8.2975
+Malawi,Malawi,Lilongwe,-13.98,TRUE,,MWI,-13.45
+Libyan Ara,Libya,Tripoli,32.9,TRUE,,LBY,26.348
+Johnston I,Johnston Atoll,,16.7,FALSE,territorio_deshabitado_uso_militar,,
+Guadeloupe,Guadeloupe,Basse-Terre,16,TRUE,,GLP,16.262
+Christmas,Christmas Island,Flying Fish Cove,-10.4,TRUE,,CXR,-10.472
+Bouvet Isl,Bouvet Island,,-54.4,FALSE,isla_deshabitada,,
+Zaire,Democratic Republic of Congo,Kinshasa,-4.3,TRUE,,COD,-1.42966666666665
+Wallis and,Wallis and Futuna,Mata-Utu,-13.3,TRUE,,WLF,-13.7945
+Vatican,Vatican City,Vatican City,41.9,TRUE,,VAT,41.902
+Tokelau,Tokelau,Fakaofo,-9.2,TRUE,,TKL,-9.064333333333334
+Svalbard &,Svalbard and Jan Mayen,Longyearbyen,78.2,TRUE,,SJM,78.41499999999999
+Saint Hele,Saint Helena,Jamestown,-15.9,TRUE,,SHN,-15.9515
+Mali,Mali,Bamako,12.6,TRUE,,MLI,15.87725
+Guinea,Guinea,Conakry,9.5,TRUE,,GIN,9.31808325
+East Timor,East Timor,Dili,-8.6,TRUE,,TLS,-8.767991583332499
+Western Sa,Western Sahara,Laayoune,27.2,TRUE,,ESH,24.527
+W. Samoa,Samoa,Apia,-13.8,TRUE,,WSM,-13.678444444433334
+San Marino,San Marino,San Marino,43.9,TRUE,,SMR,43.9376665
+Montserrat,Montserrat,Brades,16.7,TRUE,,MSR,16.743000000000002
+Mauritania,Mauritania,Nouakchott,18.1,TRUE,,MRT,20.17
+Liechtenst,Liechtenstein,Vaduz,47.1,TRUE,,LIE,47.188258416675
+Guinea-Bis,Guinea-Bissau,Bissau,11.9,TRUE,,GNB,12.0625
+Equatorial,Equatorial Guinea,Malabo,3.75,TRUE,,GNQ,1.8035
