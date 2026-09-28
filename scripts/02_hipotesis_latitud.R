@@ -32,7 +32,7 @@ if (nrow(sin_match) > 0) {
 ## aplicar criterios de exclusion definidos en el preregistro
 big_five_geo <- big_five_geo %>%
   filter(include == TRUE) %>%
-  mutate(latitud_absoluta = abs(latitude))
+  mutate(latitud_absoluta = abs(latitude_capital))
 
 ## resumen de exclusiones
 cat("N original (casos completos):", nrow(big_five), "\n")
