@@ -8,24 +8,24 @@ lmerModLmerTest]
 Formula: extraversion_score ~ latitud_absoluta + age + sex + (1 | country_name)
    Data: big_five_geo
 
-REML criterion at convergence: -500099.8
+REML criterion at convergence: -499898.8
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--4.4656 -0.6541  0.0695  0.7141  3.2730 
+-4.4641 -0.6544  0.0706  0.7127  3.3033 
 
 Random effects:
  Groups       Name        Variance  Std.Dev.
  country_name (Intercept) 0.0001859 0.01363 
- Residual                 0.0114729 0.10711 
+ Residual                 0.0114804 0.10715 
 Number of obs: 306989, groups:  country_name, 224
 
 Fixed effects:
                    Estimate Std. Error         df t value Pr(>|t|)    
-(Intercept)       6.831e-01  3.102e-03  2.219e+02 220.179   <2e-16 ***
-latitud_absoluta -2.159e-04  8.440e-05  1.444e+02  -2.558   0.0116 *  
-age              -1.470e-03  1.942e-05  3.069e+05 -75.714   <2e-16 ***
-sex               1.679e-02  3.971e-04  3.070e+05  42.287   <2e-16 ***
+(Intercept)       6.831e-01  3.103e-03  2.219e+02 220.156   <2e-16 ***
+latitud_absoluta -2.172e-04  8.441e-05  1.444e+02  -2.573   0.0111 *  
+age              -1.470e-03  1.942e-05  3.069e+05 -75.690   <2e-16 ***
+sex               1.680e-02  3.972e-04  3.070e+05  42.291   <2e-16 ***
 ---
 Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
@@ -41,24 +41,24 @@ lmerModLmerTest]
 Formula: openness_score ~ latitud_absoluta + age + sex + (1 | country_name)
    Data: big_five_geo
 
-REML criterion at convergence: -632239.4
+REML criterion at convergence: -631900.8
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--5.7388 -0.6765  0.0170  0.7056  3.1273 
+-5.7724 -0.6649  0.0295  0.7215  3.1641 
 
 Random effects:
  Groups       Name        Variance  Std.Dev.
- country_name (Intercept) 0.0002724 0.01651 
- Residual                 0.0074579 0.08636 
+ country_name (Intercept) 0.0002725 0.01651 
+ Residual                 0.0074661 0.08641 
 Number of obs: 306989, groups:  country_name, 224
 
 Fixed effects:
                   Estimate Std. Error        df t value Pr(>|t|)    
-(Intercept)      6.918e-01  3.166e-03 2.558e+02 218.521  < 2e-16 ***
-latitud_absoluta 6.393e-04  9.058e-05 1.808e+02   7.058 3.50e-11 ***
-age              1.060e-04  1.566e-05 3.070e+05   6.768 1.31e-11 ***
-sex              1.937e-02  3.202e-04 3.070e+05  60.505  < 2e-16 ***
+(Intercept)      6.918e-01  3.167e-03 2.560e+02 218.453  < 2e-16 ***
+latitud_absoluta 6.394e-04  9.060e-05 1.809e+02   7.057 3.51e-11 ***
+age              1.060e-04  1.567e-05 3.070e+05   6.763 1.35e-11 ***
+sex              1.937e-02  3.204e-04 3.070e+05  60.451  < 2e-16 ***
 ---
 Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 

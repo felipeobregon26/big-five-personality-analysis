@@ -13,8 +13,7 @@ library(lmerTest)
 
 ##--------------------------- CARGA DE DATOS ---------------------------------##
 
-data <- read_csv("data/raw/big_five_scores.csv", show_col_types = FALSE)
-big_five <- data[complete.cases(data), ]
+big_five <- read_csv("data/processed/big_five_scores.csv", show_col_types = FALSE)
 
 paises <- read_csv("data/raw/country_latitude.csv", show_col_types = FALSE)
 

@@ -14,11 +14,7 @@ library(tidyr)
 
 ##--------------------------- CARGA DE DATOS---------------------------------##
 
-data <- read_csv("data/raw/big_five_scores.csv")
-
-# eliminar casos nulos
-
-big_five <- data[complete.cases(data), ]
+big_five <- read_csv("data/processed/big_five_scores.csv")
 
 ##-------------------------------- EDA --------------------------------------##
 

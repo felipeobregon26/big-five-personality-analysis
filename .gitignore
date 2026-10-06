@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 data/raw/big_five_scores.csv
+data/processed/*.csv
